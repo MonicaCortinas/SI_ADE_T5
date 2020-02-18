@@ -1,0 +1,98 @@
+---
+title: "Tema 5: Comercio Electrónico"
+subtitle: "ADE. 172821. Sistemas de Información"
+author: "Mónica Cortiñas"
+institute: "Universidad Pública de Navarra"
+date: "Curso 2019-2020 (actualizada: `r format(Sys.time(), '%d/%m/%Y')`)"
+output:
+  xaringan::moon_reader:
+    css: [default, styles/general.css, styles/xaringan.css, css/specific.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+```
+
+```{r, include = FALSE, eval = knitr::opts_knit$get("rmarkdown.pandoc.to") == "html"}
+# Enables Font Awesome in HTML based bookdown outputs.
+fa <- rmarkdown::html_dependency_font_awesome()
+htmltools::tagList(fa)
+```
+
+
+
+layout: true
+
+<div class="my-footer"><span>Sistemas de Información <u>Tema 5</u></span></div>
+
+
+---
+class: center, middle, remark-inverse 
+
+# Estructura
+
+---
+class: middle
+
+# Secciones
+
+### 5.1 Introducción
+### 5.2 E-commerce e Internet: Características
+### 5.3 Tipos y Modelos de e-commerce
+### 5.4 Gestión del sitio web
+
+---
+class: middle
+
+## Objetivos de aprendizaje
+
+
+### 1.- Conocer las características únicas del comercio electrónico, los mercados digitales y los productos digitales.
+
+### 2.- Conocer los principales tipos y modelos de negocio en comercio electrónico y cómo estos han transformado la actividad de las empresas.
+
+### 3.- Conocer los aspectos más importantes de posicionamiento web que afectan al comercio electrónico.
+
+
+```{r child='1_intro.Rmd'}
+```
+
+---
+
+```{r child='2_caracteristicas.Rmd'}
+```
+---
+
+```{r child='3_tipos_modelos.Rmd'}
+```
+---
+
+```{r child='4_gestion.Rmd'}
+```
+---
+
+
+class: middle
+
+# Secciones
+
+### 4.1 Introducción
+### 4.2 Organización de datos en un entorno tradicional
+### 4.3 El enfoque de base de datos relacional
+### 4.4 Business Intelligence
+### 4.5 Big Data e Inteligencia Artificial
+
+---
+
+```{r child='contact_mcortinas.Rmd'}
+```
+
+
+
+

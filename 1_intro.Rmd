@@ -1,0 +1,72 @@
+
+---
+
+class: center, middle, remark-inverse
+
+# 1. Introducción 
+
+---
+# Caso de Apertura: Caso Amazon
+
+.pull-left[
+
+
+<iframe width="340" height="200" src="https://www.youtube-nocookie.com/embed/Cn62Fzd01og?start=10" frameborder="0" allow="encrypted-media"></iframe>
+
+<a href="https://www.youtube-nocookie.com/watch=Cn62Fzd01og?start=10" target="_blank" ><span style="font-size:0.6em">El caso Amazon</span></a> 
+]
+
+
+.pull-right[
+- ¿Cuál es la clave de su éxito ?
+- ¿En qué se diferencia de un negocio tradicional?
+- ¿Quién ha comprado en Amazon?¿Qué era?¿Por qué?
+- ¿Qué otros negocios tiene la empresa?
+]
+---
+class: middle, center
+
+# ¿utilizamos el e-commerce?
+
+[Socrative. Room 282228. ADE_SI_T5_1](https://b.socrative.com)
+---
+# Algunas Cifras
+
+### - **46,9%** personas 16-74 compra Internet últimos 3 meses [(INE)](http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176741&menu=ultiDatos&idp=1254735576692)    
+
+### - **90%** utiliza el móvil en el proceso de compra [(Ditrendia)](http://www.amic.media/media/files/file_352_1050.pdf)
+
+### - **60%** ha utilizado el móvil para comprar mientras estaba en la tienda [(Ditrendia)](http://www.amic.media/media/files/file_352_1050.pdf), el 31% compara precios estando en la tienda [(PWC)](https://www.pwc.com/gx/en/industries/consumer-markets/consumer-insights-survey.html)
+
+### - EL **80%** de las empresas europeas venden online en su propia web o en plataformas de terceros [(Eurobarómetro)](https://ec.europa.eu/commfrontoffice/publicopinion/flash/fl_413_en.pdf)
+
+
+---
+# Comercio electrónico vs Comercio tradicional
+
+
+
+.pull-left[
+## ¿Son fundamentalmente distintos?
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="95%"}
+
+knitr::include_graphics("images/ecommerce.jpg")
+```
+
+]
+
+
+
+.pull-right[
+### - Relaciones directas, fronteras empresas/cliente desdibujadas
+
+### - Plataformas o ecosistemas
+
+### - Foco en los datos
+
+### - Desafíos éticos
+
+### - Tecnología digital como producto
+]
+                       
