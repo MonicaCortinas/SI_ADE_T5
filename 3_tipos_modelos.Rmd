@@ -277,7 +277,7 @@ class:center
 
 - Modelo de ingresos: comisionistas
 
-<img src="images/mercado2.jpg" width="300" alt="agentes de mercado">
+<img src="images/mercado2.jpg" width="450" alt="agentes de mercado">
 
 <a style="font-size:0.6em" href="http://marketing4ecommerce.net/amazon-mecanica-de-un-marketplace/" target="_blank">Cómo funciona Amazon Marketplace</a>
 ]
@@ -301,9 +301,13 @@ class:center
 
 - Modelo de ingresos: publicidad, suscripción, micropagos, freemium
 
-<img src="images/contenido2.jpg" align="right" width="300" alt="agentes de mercado"><br>
+<img src="images/contenido2.jpg" align="right" width="400" alt="agentes de mercado">
 
-<a style="font-size:0.6em" href="https://elandroidelibre.elespanol.com/2017/02/clash-royale-mina-oro-supercell.html" target="_blank">Supercell: Más de 2.000 millones €</a>
+<p></p>
+
+
+[Epic games: 1.800 millones $ en 2019](https://www.emprendedores.es/casos-de-exito/a30452926/esta-es-la-asombrosa-facturacion-de-fortnite-en-2019/), [Supercell: 1400 millones](https://www.xatakamovil.com/mercado/clash-royale-lidero-ingresos-supercell-que-firmo-1-400-millones-dolares-2018), [King: 1.500 millones de dolares](https://www.xatakamovil.com/aplicaciones/siete-anos-candy-crush-caramelos-digitales-valiosos-historia)
+
 ]
 ---
 

@@ -69,4 +69,57 @@ knitr::include_graphics("images/ecommerce.jpg")
 
 ### - Tecnología digital como producto
 ]
+
+---
+# ¿Qué entendemos por e-commerce?
+
+> ### <i class="fa fa-quote-left"></i>... Transacciones comerciales posibilitadas digitalmente entre organizaciones y personas o entre organizaciones.
+
+- Transacciones comerciales: intercambios de marketing
+- Posibilitadas digitalmente: no únicamente compras online
+
+### Comercio electrónico implica el uso de Internet, la web, aplicaciones o navegadores móviles en las transacciones comerciales
+
+---
+# Negocio electrónico es 
+
+> ### <i class="fa fa-quote-left"></i>... conjunto de actividades empresariales basadas en información digital que soportan los intercambios de mercado
+
+- Sistemas de información internos: gestión de la información de negocio
+
+.center[
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="45%"}
+
+knitr::include_graphics("images/sitecno.jpg")
+```
+]
+
+---
+# Marketing Digital o e-marketing 
+
+> ### <i class="fa fa-quote-left"></i>... uso de medios digitales, tecnología y plataformas digitales para alcanzar e interactuar con consumidores y empresas
+
+
+
+- Comercio electrónico: actividades directamente relacionadas con las transacciones
+- Marketing digital: comercio electrónico y otras actividades en el proceso de marketing
+
+
+.center[
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="45%"}
+
+knitr::include_graphics("images/marketingdigital.jpg")
+```
+]
+
+---
+# Resumen
+
+.center[
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="95%"}
+
+knitr::include_graphics("images/conceptos.png")
+```
+]
                        
